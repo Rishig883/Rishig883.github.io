@@ -7,7 +7,7 @@ In industry, I have almost a year of experience working as a Data Scientist for 
 
 I am open to new opportunities in Data Scientist roles! Please feel free to reach out to me via email if you think I would be a great addition to your team! I’d be happy to hop on a video or phone call to talk about my experiences and projects on this portfolio.
 
-Resume/CV: [Rishi Ganguly's Resume/CV](https://drive.google.com/file/d/1kEQWpuE7HxTLvKwnvJmK5eu0oe055LjO/) <br />
+Resume/CV: [Rishi Ganguly's Resume/CV](https://drive.google.com/file/d/1OVo1V0ffMjVQ-TwiVfBsnwl9dd1nyLqD/view?usp=sharing) <br />
 Linkedin: [Rishi's LinkedIn Profile](https://linkedin.com/in/rishig8) <br />
 Email: rishig8803@gmail.com     
 <br />
@@ -69,6 +69,5 @@ In this project we will be investigating Toronto bicycle theft crimes with stati
 1. Unsupervised Natural Language Processing Project
 2. Supervised Machine Learning Project
 3. Finance: Investments Project
-4. Finance: Corporate Finance Project
-5. Dialogue Act Classification Project: Improved model for of Agreement/Disagreement LSTM model on FOMC Meeting Transcripts
-6. Interactive/Dynamic Data Visualization
+4. Dialogue Act Classification Project: Improved model for of Agreement/Disagreement LSTM model on FOMC Meeting Transcripts
+5. Interactive/Dynamic Data Visualization
